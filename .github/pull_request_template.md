@@ -4,8 +4,6 @@
 Closes #
 ## ¿Cómo se probó?
 - [ ] La app corre sin errores
-- [ ] `flutter analyze
-`
-sin advertencias
+- [ ] `flutter analyze` sin advertencias
 - [ ] Probado en simulador, emulador o teléfono
 ## Capturas (si cambia la interfaz)
